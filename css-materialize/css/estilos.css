@@ -1,0 +1,65 @@
+a img {
+	width:150px;
+}
+h6{text-align: center; color: white;padding-bottom: 15px;}
+.redes,.galeria{
+	min-height: 50rem;
+}
+.redes img{
+	width: 52px;
+}
+.navegador{
+  min-height: 7rem;
+  
+}
+.navegador a{
+  color: white;
+}
+.botones{
+  padding-top: 10px;
+  min-height: 4rem;
+}
+
+.fondo {
+	background-color:rgba(255,0,0,0.5);
+	background-image: url("../../imagenes/turismo/fondo.jpg");
+    background-repeat:repeat;
+    background-attachment: fixed;
+
+    }
+.entrada,.perfil{
+	color: white;
+  min-height:50rem;
+}
+.entrada h4{
+  padding-top: 5px;
+}
+
+.perfil img{
+  height:100px;
+  width: 100px;
+  border:solid black 1px;
+}
+.user-data{
+  margin-top: 10px;
+  font-size: 18px;
+  color: black;
+}
+
+
+.comentario{
+  border-radius: 5px;
+  resize: none;
+  border: 1px solid #ff8f00;
+  background-color: white;
+  height: 2rem;
+}
+.contenedor-comentario{
+  color: white;
+
+}
+
+
+
+
+
